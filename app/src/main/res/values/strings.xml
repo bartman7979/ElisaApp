@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Elisa</string>
+    <string name="profile">Профиль</string>
+    <string name="frame">Фоторамка</string>
+    <string name="lamp">Лампа настроения</string>
+    <string name="diary">Дневник</string>
+    <string name="card">Напутствия</string>
+    <string name="calendar">Календарь</string>
+    <string name="background">Фон</string>
+    <string name="add_entry">Добавить запись</string>
+    <string name="prev_month">Предыдущий месяц</string>
+    <string name="next_month">Следующий месяц</string>
+    <string name="about">О приложении</string>
+    <string name="logo">Логотип</string>
+    <string name="photo_thumbnail">Миниатюра фото</string>
+    <string name="delete_photo">Удалить фото</string>
+    <string name="photo">Фото</string>
+    <string name="fullscreen_image">Полноэкранное изображение</string>
+    <string name="background_horizontal">Фоновый паттерн для горизонтального режима</string>
+
+    <string name="profile_title">Настройки профиля</string>
+    <string name="profile_question">Кого сегодня послушаем?</string>
+    <string name="profile_subtitle">Выбери голос, который тебе сегодня ближе</string>
+    <string name="profile_friend">Подружка\n(Поддержка и уют)</string>
+    <string name="profile_sister">Старшая сестра\n(Забота и мудрость)</string>
+    <string name="profile_coach">Коуч\n(Энергия и границы)</string>
+    <string name="profile_about_me">О себе</string>
+    <string name="profile_name">Как тебя зовут?</string>
+    <string name="profile_name_hint">Введи своё имя</string>
+    <string name="profile_birthday">Когда у тебя день рождения?</string>
+    <string name="profile_birthday_hint">ДД.ММ.ГГГГ</string>
+    <string name="profile_settings">Настройки</string>
+    <string name="profile_notifications">Уведомления от Элизы</string>
+    <string name="profile_language">Язык приложения</string>
+    <string name="profile_save">Сохранить выбор</string>
+    <string name="profile_saved">Сохранено</string>
+
+    <string name="splash_title">Элиза: Твоё время</string>
+
+
+    <string name="calendar_menstruation">Менструация</string>
+    <string name="calendar_predicted">Прогноз</string>
+    <string name="calendar_fertile">Фертильные дни</string>
+    <string name="calendar_ovulation">Овуляция</string>
+    <string name="calendar_prediction_text">Ожидаемая менструация: %s</string>
+    <string name="calendar_loading">Загрузка прогноза...</string>
+    <string name="calendar_no_data">Недостаточно данных для прогноза</string>
+
+
+    <string name="diary_hint">Что у тебя сегодня?</string>
+    <string name="diary_add_photo">Добавить фото</string>
+    <string name="diary_photos_label">Фотографии:</string>
+    <string name="diary_save">Сохранить</string>
+    <string name="diary_edit">Редактировать</string>
+    <string name="diary_delete">Удалить</string>
+    <string name="diary_entry_saved">Запись сохранена</string>
+    <string name="diary_entry_updated">Запись обновлена</string>
+    <string name="diary_enter_text">Введите текст</string>
+    <string name="diary_photo_saved">Фото сохранено</string>
+    <string name="diary_photo_error">Не удалось сохранить фото</string>
+    <string name="diary_file_not_found">Файл не найден</string>
+
+
+    <string name="chat_hint">Спроси о чём-нибудь...</string>
+    <string name="chat_send">Отправить</string>
+    <string name="back">Назад</string>
+    <string name="chat_network_error">Сетевая ошибка</string>
+    <string name="chat_server_error">Ошибка сервера</string>
+    <string name="chat_welcome">Привет! Я Элиза, твой помощник. Как твои дела?</string>
+    <string name="chat_error_loading">Ошибка загрузки</string>
+
+
+    <string name="encouragement_sample">Ты супер!</string>
+    <string name="encouragements_title">Напутствия</string>
+    <string name="encouragement_next">Ещё напутствие</string>
+
+
+    <string name="counter_question">Как прошёл твой день?</string>
+    <string name="counter_positive">+ Позитив</string>
+    <string name="counter_negative">– Негатив</string>
+    <string name="main_balance_zero">0</string>
+    <string name="main_balance_positive">+%d</string>
+    <string name="main_lamp_description">Лампа настроения</string>
+
+
+    <string name="notification_channel_name">Элиза</string>
+    <string name="notification_channel_description">Уведомления от Элизы</string>
+    <string name="notification_title">Элиза</string>
+
+    <!-- About Fragment -->
+    <string name="about_title">О приложении</string>
+    <string name="about_version">Версия 1.0.0</string>
+    <string name="about_description"><![CDATA[
+<p><b>Элиза</b> — твой личный островок спокойствия. Я создана, чтобы бережно заботиться о твоём настроении и здоровье. ✨</p>
+
+<p><b>Что мы будем делать вместе:</b></p>
+• <b>Дневник чувств:</b> записывай мысли и храни важные моменты в фото.<br>
+• <b>Лампа настроения:</b> делись событиями, и я подскажу, какой сегодня «цвет» твоего дня.<br>
+• <b>Календарь:</b> я помогу следить за циклом и предскажу важные даты.<br>
+• <b>Напутствия:</b> теплые слова от тех, кто тебя понимает.<br>
+• <b>Чат со мной:</b> я всегда рядом, чтобы поболтать, найти рецепт или просто выслушать. 🌸<br><br>
+
+<i>Все твои секреты остаются только на этом устройстве.</i><br><br>
+
+<i><font color="#F06292">⚠️ Данное приложение не является средством контрацепции и не должно использоваться для планирования или предотвращения беременности. При любых нарушениях цикла обратитесь к врачу.</font></i><br><br>
+
+С любовью, сделано для тебя. ❤️
+]]></string>
+    <string name="about_copyright">© 2026 Твой Bartman79</string>
+
+    <string-array name="widget_messages">
+        <item>Держись 💪</item>
+        <item>У тебя всё получится ✨</item>
+        <item>Сделай перерыв 🌸</item>
+        <item>Всё хорошо 🌿</item>
+        <item>Хорошего дня 🌞</item>
+        <item>Сияй ✨</item>
+        <item>Отлично 🎉</item>
+        <item>Великолепно! 🌟</item>
+        <item>Невероятно 🚀</item>
+    </string-array>
+</resources>

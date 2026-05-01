@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.bartman79.elisa.ui.about.AboutFragment"
+        android:label="О приложении"
+        tools:layout="@layout/fragment_about" />
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.bartman79.elisa.ui.main.MainFragment"
+        android:label="Главная"
+        tools:layout="@layout/fragment_main" />
+
+    <fragment
+        android:id="@+id/diaryListFragment"
+        android:name="com.bartman79.elisa.ui.diary.DiaryListFragment"
+        android:label="Дневник"
+        tools:layout="@layout/fragment_diary_list" />
+
+    <fragment
+        android:id="@+id/counterFragment"
+        android:name="com.bartman79.elisa.ui.counter.CounterFragment"
+        android:label="Счётчик"
+        tools:layout="@layout/fragment_counter" />
+
+    <fragment
+        android:id="@+id/encouragementsFragment"
+        android:name="com.bartman79.elisa.ui.encouragements.EncouragementsFragment"
+        android:label="Напутствия"
+        tools:layout="@layout/fragment_encouragements" />
+
+    <fragment
+        android:id="@+id/calendarFragment"
+        android:name="com.bartman79.elisa.ui.calendar.CalendarFragment"
+        android:label="Календарь"
+        tools:layout="@layout/fragment_calendar" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.bartman79.elisa.ui.profile.ProfileFragment"
+        android:label="Профиль"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.bartman79.elisa.ui.chat.ChatFragment"
+        android:label="Чат"
+        tools:layout="@layout/fragment_chat" />
+
+    <fragment
+        android:id="@+id/diaryEditFragment"
+        android:name="com.bartman79.elisa.ui.diary.DiaryEditFragment"
+        android:label="Новая запись"
+        tools:layout="@layout/fragment_diary_edit">
+
+
+
+        <argument
+            android:name="entryId"
+            app:argType="long" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/diaryDetailFragment"
+        android:name="com.bartman79.elisa.ui.diary.DiaryDetailFragment"
+        android:label="Запись"
+        tools:layout="@layout/fragment_diary_detail">
+
+        <argument
+            android:name="entryId"
+            app:argType="long" />
+
+        <action
+            android:id="@+id/action_diaryDetailFragment_to_diaryEditFragment"
+            app:destination="@id/diaryEditFragment" />
+    </fragment>
+
+</navigation>

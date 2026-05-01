@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Elisa</string>
+    <string name="profile">Profil</string>
+    <string name="frame">Fotorahmen</string>
+    <string name="lamp">Stimmungslampe</string>
+    <string name="diary">Tagebuch</string>
+    <string name="card">Ermutigungen</string>
+    <string name="calendar">Kalender</string>
+    <string name="background">Hintergrund</string>
+    <string name="add_entry">Eintrag hinzufügen</string>
+    <string name="prev_month">Vorheriger Monat</string>
+    <string name="next_month">Nächster Monat</string>
+    <string name="about">Über</string>
+    <string name="logo">Logo</string>
+    <string name="photo_thumbnail">Foto-Vorschau</string>
+    <string name="delete_photo">Foto löschen</string>
+    <string name="photo">Foto</string>
+    <string name="fullscreen_image">Vollbildansicht</string>
+    <string name="background_horizontal">Horizontales Hintergrundmuster</string>
+
+    <string name="splash_title">Elisa: Deine Zeit</string>
+
+        <string name="profile_title">Profileinstellungen</string>
+        <string name="profile_question">Wen hören wir heute?</string>
+        <string name="profile_subtitle">Wähle die Stimme, die dir heute nahesteht</string>
+        <string name="profile_friend">Beste Freundin\n(Unterstützung und Geborgenheit)</string>
+        <string name="profile_sister">Große Schwester\n(Fürsorge und Weisheit)</string>
+        <string name="profile_coach">Coach\n(Energie und Grenzen)</string>
+        <string name="profile_about_me">Über mich</string>
+        <string name="profile_name">Wie heißt du?</string>
+        <string name="profile_name_hint">Gib deinen Namen ein</string>
+        <string name="profile_birthday">Wann hast du Geburtstag?</string>
+        <string name="profile_birthday_hint">TT.MM.JJJJ</string>
+        <string name="profile_settings">Einstellungen</string>
+        <string name="profile_notifications">Benachrichtigungen von Eliza</string>
+        <string name="profile_language">App-Sprache</string>
+        <string name="profile_save">Auswahl speichern</string>
+        <string name="profile_saved">Gespeichert</string>
+
+        <string name="calendar_menstruation">Menstruation</string>
+        <string name="calendar_predicted">Vorhersage</string>
+        <string name="calendar_fertile">Fruchtbare Tage</string>
+        <string name="calendar_ovulation">Eisprung</string>
+        <string name="calendar_prediction_text">Erwartete Menstruation: %s</string>
+        <string name="calendar_loading">Lade Prognose...</string>
+        <string name="calendar_no_data">Nicht genug Daten für Prognose</string>
+
+        <string name="diary_hint">Was ist heute los?</string>
+        <string name="diary_photos_label">Fotos:</string>
+        <string name="diary_add_photo">Foto hinzufügen</string>
+        <string name="diary_save">Speichern</string>
+        <string name="diary_edit">Bearbeiten</string>
+        <string name="diary_delete">Löschen</string>
+        <string name="diary_entry_saved">Eintrag gespeichert</string>
+        <string name="diary_entry_updated">Eintrag aktualisiert</string>
+        <string name="diary_enter_text">Text eingeben</string>
+        <string name="diary_photo_saved">Foto gespeichert</string>
+        <string name="diary_photo_error">Foto konnte nicht gespeichert werden</string>
+        <string name="diary_file_not_found">Datei nicht gefunden</string>
+
+        <string name="chat_hint">Frag etwas...</string>
+        <string name="back">Zurück</string>
+        <string name="chat_send">Senden</string>
+        <string name="chat_network_error">Netzwerkfehler</string>
+        <string name="chat_server_error">Serverfehler</string>
+        <string name="chat_welcome">Hallo! Ich bin Eliza, deine Assistentin. Wie geht es dir?</string>
+        <string name="chat_error_loading">Ladefehler</string>
+
+        <string name="encouragement_sample">Du bist super!</string>
+        <string name="encouragements_title">Ermutigungen</string>
+        <string name="encouragement_next">Nächste Ermutigung</string>
+
+        <string name="counter_question">Wie war dein Tag?</string>
+        <string name="counter_positive">+ Positiv</string>
+        <string name="counter_negative">– Negativ</string>
+        <string name="main_balance_zero">0</string>
+        <string name="main_balance_positive">+%d</string>
+        <string name="main_lamp_description">Stimmungslampe</string>
+
+        <string name="notification_channel_name">Eliza</string>
+        <string name="notification_channel_description">Benachrichtigungen von Eliza</string>
+        <string name="notification_title">Eliza</string>
+
+    <string name="about_title">Über die App</string>
+    <string name="about_version">Version 1.0.0</string>
+    <string name="about_description"><![CDATA[
+<p><b>Eliza</b> ist deine persönliche Insel der Ruhe. Ich wurde geschaffen, um mich liebevoll um deine Stimmung und Gesundheit zu kümmern. ✨</p>
+
+<p><b>Was wir zusammen tun werden:</b></p>
+• <b>Gefühle-Tagebuch:</b> schreibe deine Gedanken auf und bewahre wichtige Momente mit Fotos.<br>
+• <b>Stimmungslampe:</b> teile Ereignisse, und ich sage dir, welche “Farbe” dein Tag hat.<br>
+• <b>Kalender:</b> ich helfe dir, deinen Zyklus zu verfolgen und wichtige Daten vorherzusagen.<br>
+• <b>Ermutigungen:</b> warme Worte von denen, die dich verstehen.<br>
+• <b>Chat mit mir:</b> ich bin immer da, um zu plaudern, ein Rezept zu finden oder einfach zuzuhören. 🌸<br><br>
+
+<i>Alle deine Geheimnisse bleiben nur auf diesem Gerät.</i><br><br>
+
+<i><font color="#F06292">⚠️ Diese App ist kein Verhütungsmittel und sollte nicht zur Planung oder Verhütung einer Schwangerschaft verwendet werden. Bei Zyklusstörungen konsultiere bitte einen Arzt.</font></i><br><br>
+
+Mit Liebe gemacht für dich. ❤️
+]]></string>
+    <string name="about_copyright">© 2026 Dein Bartman79</string>
+
+
+    <string-array name="widget_messages">
+        <item>Halt durch 💪</item>
+        <item>Du schaffst das ✨</item>
+        <item>Atme durch 🌸</item>
+        <item>Ganz okay 🌿</item>
+        <item>Guter Tag 🌞</item>
+        <item>Du strahlst ✨</item>
+        <item>Großartig 🎉</item>
+        <item>Wunderbar! 🌟</item>
+        <item>Einfach spitze 🚀</item>
+    </string-array>
+</resources>

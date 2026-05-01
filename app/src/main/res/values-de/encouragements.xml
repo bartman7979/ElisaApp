@@ -1,0 +1,140 @@
+<resources>
+    <string-array name="encouragements_friend">
+        <item>Manchmal ist der beste Plan für den Tag, einfach nur zu atmen, Tee zu trinken und keine Heldentaten von sich zu verlangen.</item>
+        <item>Deine Verletzlichkeit macht dich nicht schwach, sie macht dich echt. Und das ist das Wertvollste.</item>
+        <item>Ich liebe dich nicht dafür, wie du sein „solltest“, sondern dafür, wer du jetzt gerade bist.</item>
+        <item>Erlaube dir, „nicht im Flow“ zu sein. Wir alle müssen mal auftanken, und das ist völlig okay.</item>
+        <item>Dein Lachen ist mein Lieblings-Soundtrack. Möge es öfter in deinem Leben erklingen.</item>
+        <item>Entschuldige dich nicht dafür, dass du Raum einnimmst. Du hast jedes Recht, hier zu sein – laut und sichtbar.</item>
+        <item>Wenn du heute einfach nur überlebt hast, ist das schon ein Sieg. Morgen wird es leichter, ich bin bei dir.</item>
+        <item>Wir können auch einfach zusammen schweigen. Du musst mich nicht unterhalten, damit ich an deiner Seite bleibe.</item>
+        <item>Deine „Macken“ sind keine Bugs, sondern einzigartige Features. Versuch nicht, dich für fremde Standards zu „updaten“.</item>
+        <item>Ich drücke dich so fest, dass alle Sorgen für einen Moment mit dir zusammen ausatmen.</item>
+        <item>Du musst nicht perfekt sein, um geliebt zu werden. Du bist bereits genug.</item>
+        <item>Lass uns abmachen: Wenn die Welt drückt, machen wir einfach einen Schritt zurück statt nach vorne.</item>
+        <item>Deine Intuition flüstert, während die Logik schreit. Hör heute mal auf das Flüstern.</item>
+        <item>Ich bin stolz darauf, wie du auf dich aufpasst, auch wenn die Welt es nicht bemerkt.</item>
+        <item>Du bist wie ein guter Wein: Du schmeckst noch besser, wenn du aufhörst, einem fremden Etikett entsprechen zu wollen.</item>
+        <item>Du bist super, meine Liebe!</item>
+        <item>Heute ist ein großartiger Tag, um glücklich zu sein!</item>
+        <item>Du schaffst das, auch wenn es sich gerade so anfühlt, als würde dir alles entgleiten.</item>
+        <item>Dein Lächeln kann eine ganze Stadt erwärmen.</item>
+        <item>Der Kaffee ist fertig, die Probleme können warten.</item>
+        <item>Du strahlst heller als ein Smartphone-Display auf maximaler Helligkeit.</item>
+        <item>Hör zu, selbst wenn du heute nur deine Haare gewaschen hast – du bist die Heldin des Tages!</item>
+        <item>Kauf dir diese Schokolade. Wenn das Gehirn fragt, muss man liefern!</item>
+        <item>Du siehst fantastisch aus, auch wenn du es selbst gerade nicht so empfindest.</item>
+        <item>Wenn das Leben dir Zitronen gibt – bring Tequila mit, wir besprechen das!</item>
+        <item>Dein Stil ist einfach on fire. Ich liebe deinen Geschmack!</item>
+        <item>Ein kleiner Sieg heute ist bereits ein riesiger Schritt.</item>
+        <item>Pfeif auf die, die dich nicht schätzen. Sie sind einfach noch nicht auf deinem Level.</item>
+        <item>Du bist wie ein seltener Wein: Mit jedem Tag wirst du interessanter und cooler.</item>
+        <item>Denk dran: Du bist der Hauptpreis, kein Trostpflaster.</item>
+        <item>Sogar im Schlafanzug und mit Dutt siehst du aus wie eine Stilikone.</item>
+        <item>Schick mir ein Selfie, ich nenne dir 100 Gründe, warum du eine Göttin bist.</item>
+        <item>Die Welt kann warten, bis wir diesen Tee (oder was Stärkeres) ausgetrunken haben.</item>
+        <item>Du bist mein Lieblingsgrund zu glauben, dass es coole Leute wirklich gibt.</item>
+        <item>Wenn dich jemand verletzt hat – sag’s mir, ich suche schon seine Adresse (Spaß, aber ich bin für dich da!).</item>
+        <item>Wenn dieser Tag eine Zitrone ist, wo sind dann Salz und Tequila?</item>
+        <item>Du siehst so gut aus, dass sich sogar die Ex-Freunde deiner Ex-Freunde in den Hintern beißen.</item>
+        <item>Deine Intuition lügt nie, dieser Typ hingegen schon. Hör auf dich selbst!</item>
+        <item>Wir zwei sind wie Twix – zusammen ist es süßer und macht mehr Spaß.</item>
+        <item>Selbst wenn du heute den ganzen Tag prokrastiniert hast, hast du es verdammt stilvoll getan.</item>
+        <item>Denk dran: Kalorien im Nachtisch zählen nicht, wenn wir ihn zusammen essen.</item>
+        <item>Du bist wie ein seltenes iOS-Update: Alle wollen es, aber nicht jeder ist bereit dafür.</item>
+        <item>Hör auf, seine Nachrichten zu analysieren, lass uns lieber neue Schuhe für dich aussuchen!</item>
+        <item>Deine Ausstrahlung schlägt sogar das schlechteste WLAN.</item>
+        <item>Wenn die Welt verrückt spielt, bauen wir uns einfach unsere eigene – mit Blackjack und Katzen.</item>
+    </string-array>
+
+    <string-array name="encouragements_sister">
+        <item>Wir haben nicht nur Geheimnisse geteilt, sondern auch das Schweigen. Ich schätze jede Minute davon mit dir.</item>
+        <item>Du bist die erste Zeugin meines Lebens. Danke, dass du an meiner Seite wächst, auch wenn wir weit voneinander entfernt sind.</item>
+        <item>Deine Müdigkeit ist kein Urteil, sondern eine Bitte um Fürsorge. Erlaube dir, sie in vollen Zügen zu genießen.</item>
+        <item>Ich erinnere mich an dich als kleines Mädchen, sehe dich heute und liebe schon jetzt die Frau, die du einmal sein wirst.</item>
+        <item>Unsere Meinungsverschiedenheiten sind nur Kommata in dem langen Satz namens „Wir“.</item>
+        <item>Trag nicht alles allein. Meine Tür steht immer offen für deine Tränen, deine Erschöpfung und deine großen Hoffnungen.</item>
+        <item>Du bist Teil meines Fundaments. Wenn du fest stehst, kann auch ich leichter atmen.</item>
+        <item>Erlaube dir, Fehler zu machen. Ich werde dich trotzdem immer als meine größte Errungenschaft betrachten.</item>
+        <item>Deine Güte ist unser Familienschatz. Bewahre sie dir, aber lass nicht zu, dass sie dich auszehrt.</item>
+        <item>Wenn die Welt zu laut ist, wisse: Du hast mein leises, aber sicheres „Ich bin da“.</item>
+        <item>Du wächst, und ich wachse mit dir. Danke, dass du den Weg mit mir gehst, auch wenn er Kurven macht.</item>
+        <item>Vergleich dich nicht mit anderen. Du hast deine eigene Geschichte, deine eigenen Wurzeln und deinen eigenen Rhythmus.</item>
+        <item>Ich glaube an dein „Morgen“ genauso stark wie an unser „Gestern“.</item>
+        <item>Dein Recht, unperfekt, unbeständig und einfach lebendig zu sein – ich werde es immer verteidigen.</item>
+        <item>Ich umarme dich über Jahre und Entfernungen hinweg. Du bist meine Herzensfreude und mein sicherer Hafen.</item>
+        <item>Halt durch, Schwesterherz, ich bin immer auf deiner Seite.</item>
+        <item>Erlaube dir, unperfekt zu sein – darin liegt deine wahre Magie.</item>
+        <item>Dein Körper ist dein Zuhause. Kümmere dich heute mit viel Liebe um ihn.</item>
+        <item>Die Welt braucht genau das, was nur du hast.</item>
+        <item>Kauf dir diese Blumen. Einfach so. Für deinen Lieblingsmenschen – für dich selbst.</item>
+        <item>Du bist stärker als du denkst und weiser, als es dir gerade vorkommt.</item>
+        <item>Wenn der Tag schiefgelaufen ist, denk dran: Morgen ist ein unbeschriebenes Blatt und eine neue Chance.</item>
+        <item>Zieh das an, worin du dich wie eine echte Königin fühlst.</item>
+        <item>Deine Träume sind es wert, für sie zu kämpfen. Gib nicht auf.</item>
+        <item>Vergiss nicht: Du bist das Beste, was mir in meinem Leben passiert ist.</item>
+        <item>Deine Stimme zählt. Lass niemals zu, dass sie übertönt wird.</item>
+        <item>Ich kenne deine Stärke, selbst wenn du selbst an ihr zweifelst.</item>
+        <item>Du bist der Funke, der große Ideen entzündet.</item>
+        <item>Ruh dich aus. Die ganze Welt wird warten, während du neue Kraft sammelst.</item>
+        <item>Für mich bist du immer die Nummer eins, egal in welcher Stimmung.</item>
+        <item>Atme einfach durch. Du tust schon genug, indem du einfach du selbst bist.</item>
+        <item>Deine Güte ist keine Schwäche, sie ist deine größte Macht.</item>
+        <item>Ich bin stolz auf jeden deiner kleinen Siege, von denen niemand weiß.</item>
+        <item>Denk daran, dass du Fürsorge verdienst, nicht nur wenn du „produktiv“ bist.</item>
+        <item>Ich drücke dich fest über all die Kilometer hinweg. Du bist meine Inspiration.</item>
+        <item>In dir wohnt eine Kraft, von der du keine Ahnung hast, aber ich sehe sie.</item>
+        <item>Wisse einfach: Ich stehe immer hinter dir, auch wenn die ganze Welt gegen dich ist.</item>
+        <item>Deine „Fehler“ sind nur einzigartige Züge, die dich ausmachen.</item>
+        <item>Vergleiche deinen ersten Schritt nicht mit dem hundertsten von jemand anderem. Geh in deinem Tempo.</item>
+        <item>Deine Gefühle sind wichtig. Wenn du weinen willst – weine, ich halte deine Hand.</item>
+        <item>Du verdienst alles Gute auf der Welt, einfach nur, weil es dich gibt.</item>
+        <item>Ich umarme dich in Gedanken. Du bist mir am nächsten und mein ganzer Stolz.</item>
+        <item>Erlaube dir heute, einfach nur zu „sein“ statt zu „erreichen“.</item>
+        <item>Deine Seele leuchtet so hell, dass keine Wolken sie trüben können.</item>
+        <item>Du bist ein Schatz, und ich werde nicht müde, dich jeden Tag daran zu erinnern.</item>
+    </string-array>
+
+    <string-array name="encouragements_coach">
+        <item>Erfolg ist kein Erschöpfungsrennen, sondern ein Marathon in deinem eigenen Rhythmus. Hör auf deinen Körper, er weiß Bescheid.</item>
+        <item>Dein „Muss“ sollte eines Tages zu einem „Will“ werden. Bis dahin – gib dir Zeit und Raum.</item>
+        <item>Grenzen setzen bedeutet nicht „Nein“, sondern ein ehrliches „Ja“ zu sich selbst und den eigenen Werten.</item>
+        <item>Erholung ist keine Belohnung für Produktivität, sondern der Treibstoff dafür. Tanke auf, bevor du weiterfährst.</item>
+        <item>Du hast das Recht, deine Meinung zu ändern. Wachstum ist keine gerade Linie, sondern eine Spirale, die dich auf einer neuen Ebene zu dir selbst zurückführt.</item>
+        <item>Hör auf, auf den „richtigen Moment“ zu warten. Er entsteht durch deinen ersten, wenn auch unsicheren Schritt.</item>
+        <item>Dein Wert misst sich nicht an der Anzahl der Häkchen auf deiner To-Do-Liste. Du bist wertvoll, einfach weil du existierst.</item>
+        <item>Disziplin ohne Selbstmitgefühl führt zum Burnout. Sei streng zum Ziel, aber sanft zu dir selbst auf dem Weg.</item>
+        <item>Verwechsle nicht die Erwartungen anderer mit deinen eigenen Ambitionen. Hol dir stillschweigend das Steuer zurück.</item>
+        <item>Angst vor Veränderung ist nur Respekt vor dem, was dir wichtig ist. Handle vorsichtig, aber handle.</item>
+        <item>Dein Ziel ist dein Glück. Auf zu neuen Gipfeln!</item>
+        <item>Dein Erfolg ist die beste Rache an allen, die je an dir gezweifelt haben.</item>
+        <item>Der Ex ist nur ein abgeschlossenes Level. Vergiss ihn, vor dir wartet ein neuer Endgegner!</item>
+        <item>Die Ziegen auf der Arbeit sind nur sauer, weil sie nicht so klasse sein können wie du.</item>
+        <item>Vergiss ihn. Du bist ein Diamant, und er versteht einfach nichts von Juwelen.</item>
+        <item>Dein „Nein“ ist deine Superkraft. Nutze sie ohne schlechtes Gewissen.</item>
+        <item>Grenzen sind keine Mauern, sondern ein Filter für Menschen, die dich verdienen.</item>
+        <item>Investiere in dich selbst. Das ist die einzige Aktie, die immer steigt.</item>
+        <item>Du bist die Autorin deiner Geschichte. Lass niemand anderen die Feder halten.</item>
+        <item>Fehler sind nur die Steuer auf Erfahrung. Zahle sie und geh weiter.</item>
+        <item>Verschwende deine Magie nicht an Menschen, die nicht über sie staunen können.</item>
+        <item>Deine Zeit ist zu kostbar, um sie mit toxischen Menschen zu verschwenden.</item>
+        <item>Wenn jemand versucht, dich zu treffen, bedeutet das, dass du bereits weit über ihm stehst.</item>
+        <item>Du bist nicht „eine von vielen“, du bist das Original. Kopien interessieren uns nicht.</item>
+        <item>Steh auf, richte deine Krone und pass die Welt deinem Style an!</item>
+        <item>Hater sind deine kostenlosen Werbeagenten. Lass sie arbeiten!</item>
+        <item>Hör auf, seine Stories zu checken, check lieber deinen Kontostand.</item>
+        <item>Du musst nicht bequem sein. Du musst glücklich und erfolgreich sein.</item>
+        <item>Dein Potenzial ist grenzenlos, also wage es nicht, es für den Komfort anderer zu drosseln.</item>
+        <item>In jeder unklaren Situation: Setz auf dich selbst. Du wirst nicht verlieren.</item>
+        <item>Deine Angst ist nur ein Wegweiser dorthin, wo du wachsen musst.</item>
+        <item>Entweder du beherrschst den Tag, oder der Tag beherrscht dich. Wähle weise.</item>
+        <item>Zu viel Denken, zu wenig Tun. Fang einfach an, der Appetit kommt beim Essen.</item>
+        <item>Deine Komfortzone ist eine Falle. Das wahre Leben beginnt dort, wo es gruselig wird.</item>
+        <item>Hör auf, dich für deinen Erfolg zu entschuldigen. Du hast ihn dir hart erarbeitet.</item>
+        <item>Wenn du die Klügste im Raum bist, bist du im falschen Raum. Such dir eine größere Bühne!</item>
+        <item>Warte nicht auf Inspiration, erschaffe Disziplin. Sie bringt dich dorthin, wo Motivation schlappmacht.</item>
+        <item>Du bist nicht „schwierig“, du hast einfach hohe Standards. Senke nicht die Messlatte.</item>
+        <item>Deine Energie ist eine Währung. Gib sie nicht für Leute aus, die keine Dividenden bringen.</item>
+        <item>Die Grenzen von gestern sind die Chancen von heute. Dreh das Spiel um!</item>
+    </string-array>
+</resources>

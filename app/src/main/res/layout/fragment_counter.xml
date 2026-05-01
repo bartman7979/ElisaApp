@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF9F0">
+
+    <View
+        android:id="@+id/topGradient"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/gradient_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/ivCounterLamp"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_lamp"
+            android:padding="8dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="32dp"
+            android:contentDescription="@string/lamp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/counter_question"
+            android:textSize="24sp"
+            android:textColor="#F06292"
+            android:layout_marginBottom="32dp"/>
+
+        <Button
+            android:id="@+id/btnPositive"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="@string/counter_positive"
+            android:textSize="18sp"
+            android:backgroundTint="#FFB74D"
+            android:layout_marginBottom="16dp"/>
+
+        <Button
+            android:id="@+id/btnNegative"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="@string/counter_negative"
+            android:textSize="18sp"
+            android:backgroundTint="#64B5F6"/>
+
+    </LinearLayout>
+
+</LinearLayout>

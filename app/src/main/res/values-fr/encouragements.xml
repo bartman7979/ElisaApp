@@ -1,0 +1,140 @@
+<resources>
+    <string-array name="encouragements_friend">
+        <item>Parfois, le meilleur plan pour la journée, c\'est juste de respirer, boire un thé et ne pas exiger de toi des exploits.</item>
+        <item>Ta vulnérabilité ne fait pas de toi une personne faible, elle fait de toi quelqu\'un de vrai. Et c\'est ce qu\'il y a de plus précieux.</item>
+        <item>Je t\'aime non pas pour celle que tu « devrais » être, mais pour celle que tu es en ce moment même.</item>
+        <item>Permets-toi d\'être « à plat ». On est tous en recharge par moments, et c\'est parfaitement normal.</item>
+        <item>Ton rire est ma bande-son préférée. Qu\'il résonne plus souvent dans ta vie.</item>
+        <item>Ne t\'excuse pas de prendre ta place. Tu as tout à fait le droit d\'être ici, bruyante et visible.</item>
+        <item>Si aujourd\'hui tu as juste « survécu », c\'est déjà une victoire. Demain sera plus facile, je suis là.</item>
+        <item>On peut juste rester silencieuses ensemble. Tu n\'as pas besoin de me divertir pour que je reste à tes côtés.</item>
+        <item>Tes « bizarreries » ne sont pas des bugs, mais des fonctionnalités uniques. N\'essaie pas de te « mettre à jour » pour coller aux standards des autres.</item>
+        <item>Je te serre si fort dans mes bras que toutes tes inquiétudes pourront s\'évaporer le temps d\'un souffle.</item>
+        <item>Tu n\'as pas besoin d\'être parfaite pour être aimée. Tu es déjà suffisamment bien.</item>
+        <item>Promis : quand le monde pèse trop, on fait un pas en arrière, pas en avant.</item>
+        <item>Ton intuition chuchote, tandis que la logique crie. Aujourd\'hui, écoute le chuchotement.</item>
+        <item>Je suis fière de voir comment tu prends soin de toi, même quand le monde ne le remarque pas.</item>
+        <item>Tu es comme un bon vin : tu n\'en es que meilleure quand tu cesses d\'essayer de coller à l\'étiquette des autres.</item>
+        <item>Tu es super, ma belle !</item>
+        <item>Aujourd\'hui est un jour parfait pour être heureuse !</item>
+        <item>Tu vas y arriver, même si pour l\'instant tout te semble s\'effondrer.</item>
+        <item>Ton sourire pourrait réchauffer toute une ville.</item>
+        <item>Le café est prêt, les problèmes peuvent attendre.</item>
+        <item>Tu brilles plus fort qu\'un écran de smartphone à luminosité maximale.</item>
+        <item>Écoute, même si aujourd\'hui tu t\'es juste lavé les cheveux, tu es déjà l\'héroïne de la journée !</item>
+        <item>Achète ce fameux chocolat. Le cerveau réclame, il faut lui donner !</item>
+        <item>Tu es à tomber, même si tu n\'en es pas convaincue.</item>
+        <item>Si la vie te donne des citrons, apporte la tequila, on en discutera !</item>
+        <item>Ton style est tout simplement feu. J\'adore ton goût !</item>
+        <item>Une petite victoire aujourd\'hui, c\'est déjà un énorme pas en avant.</item>
+        <item>Laisse tomber ceux qui n\'ont pas su apprécier. Ils sont juste loin d\'atteindre ton niveau.</item>
+        <item>Tu es comme un vin rare : chaque jour, tu gagnes en caractère et en éclat.</item>
+        <item>Rappelle-toi : tu es le lot principal, pas une consolation.</item>
+        <item>Même en pyjama avec un chignon sur la tête, tu as l\'air d\'une icône de style.</item>
+        <item>Envoie-moi un selfie, je te trouverai 100 raisons pour lesquelles tu es une déesse.</item>
+        <item>Le monde peut attendre qu\'on finisse ce thé (ou quelque chose de plus fort).</item>
+        <item>Tu es ma raison préférée de croire que les gens géniaux existent.</item>
+        <item>Si quelqu\'un t\'a blessée, dis-le-moi, je cherche déjà son adresse (je blague, mais je suis là !).</item>
+        <item>Si cette journée est un citron, où sont notre sel et notre tequila ?</item>
+        <item>Tu es tellement stylée que même les ex de tes ex s\'en mordent les doigts.</item>
+        <item>Ton intuition ne ment jamais, contrairement à ce type. Fais-toi confiance !</item>
+        <item>On est comme deux barres Twix : ensemble, c\'est plus doux et plus fun.</item>
+        <item>Même si tu as procrastiné toute la journée aujourd\'hui, tu l\'as fait avec un style diablement efficace.</item>
+        <item>Rappelle-toi : les calories du dessert ne comptent pas si on le mange ensemble.</item>
+        <item>Tu es comme une mise à jour iOS rare : tout le monde la veut, mais elle n\'est pas à la portée de tous.</item>
+        <item>Arrête d\'analyser ses messages, allons plutôt te choisir de nouvelles chaussures !</item>
+        <item>Ton charisme traverse même le pire des Wi-Fi.</item>
+        <item>Si le monde est devenu fou, on se construira le nôtre, avec du blackjack et des chatons.</item>
+    </string-array>
+
+    <string-array name="encouragements_sister">
+        <item>On a partagé non seulement des secrets, mais aussi des silences. Je chéris chaque minute passée avec toi.</item>
+        <item>Tu es le premier témoin de ma vie. Merci de grandir à côté de moi, même quand on est loin.</item>
+        <item>Ta fatigue n\'est pas une condamnation, mais un appel au soin. Permets-toi de le recevoir pleinement.</item>
+        <item>Je me souviens de toi petite, je vois celle que tu es aujourd\'hui et j\'aime déjà celle que tu deviendras.</item>
+        <item>Nos désaccords ne sont que des virgules dans une longue phrase intitulée « nous ».</item>
+        <item>Ne porte pas tout toute seule. Ma porte est toujours ouverte à tes larmes, ta fatigue et tes grandes espérances.</item>
+        <item>Tu fais partie de mes fondations. Quand tu es solide, je respire plus facilement.</item>
+        <item>Autorise-toi à faire des erreurs. Je continuerai à te considérer comme ma plus grande fierté.</item>
+        <item>Ta bonté est le trésor de notre famille. Préserve-la, mais ne la laisse pas t\'épuiser.</item>
+        <item>Quand le monde est trop bruyant, sache que tu as mon « je suis là », discret mais infaillible.</item>
+        <item>Tu grandis, et je grandis avec toi. Merci de faire le chemin avec moi, même quand il est sinueux.</item>
+        <item>Ne te compare pas aux autres. Tu as ta propre histoire, tes propres racines et ton rythme unique.</item>
+        <item>Je crois en tes « lendemains » aussi fort qu\'en notre « hier ».</item>
+        <item>Ton droit d\'être imparfaite, incohérente et simplement vivante, je le défendrai toujours.</item>
+        <item>Je t\'embrasse à travers les années et les distances. Tu es ma joie fraternelle et mon havre de paix.</item>
+        <item>Tiens bon, ma sœur, je suis toujours de ton côté.</item>
+        <item>Autorise-toi à être imparfaite, c\'est là que réside ta véritable magie.</item>
+        <item>Ton corps est ta maison. Prends-en soin aujourd\'hui avec beaucoup d\'amour.</item>
+        <item>Le monde a justement besoin de ce qu\'il n\'y a qu\'en toi.</item>
+        <item>Achète ces fameuses fleurs. Juste comme ça. Pour la plus aimée : pour toi.</item>
+        <item>Tu es plus forte que tu ne le crois, et plus sage que tu ne le penses en ce moment.</item>
+        <item>Si la journée n\'a pas été réussie, rappelle-toi : demain est une page blanche et une nouvelle chance.</item>
+        <item>Mets ce dans quoi tu te sens comme une véritable reine.</item>
+        <item>Tes rêves valent la peine qu\'on se batte pour eux. N\'abandonne pas.</item>
+        <item>Rappelle-toi : tu es la meilleure chose qui me soit arrivée.</item>
+        <item>Ta voix compte. Ne la laisse jamais étouffer.</item>
+        <item>Je connais ta force, même quand tu en doutes toi-même.</item>
+        <item>Tu es cette étincelle qui fait naître les grandes idées.</item>
+        <item>Repose-toi. Le monde entier peut attendre que tu reprennes des forces.</item>
+        <item>Pour moi, tu seras toujours la première, quelle que soit ton humeur.</item>
+        <item>Respire juste un bon coup. Tu en fais déjà assez en restant simplement toi-même.</item>
+        <item>Ta bonté n\'est pas une faiblesse, c\'est ta plus grande puissance.</item>
+        <item>Je suis fière de chacune de tes petites victoires, même celles que personne ne connaît.</item>
+        <item>Rappelle-toi que tu mérites qu\'on prenne soin de toi, pas seulement quand tu es « productive ».</item>
+        <item>Je te serre fort dans mes bras à travers tous ces kilomètres. Tu es mon inspiration.</item>
+        <item>Il y a en toi une force dont tu ne soupçonnes même pas l\'existence, mais moi, je la vois.</item>
+        <item>Sache juste une chose : je suis toujours de ton côté, même si le monde entier s\'y oppose.</item>
+        <item>Tes « défauts » ne sont que des traits uniques qui font de toi, toi.</item>
+        <item>Ne compare pas ton premier pas au centième pas de quelqu\'un d\'autre. Tu avances à ton propre rythme.</item>
+        <item>Tes émotions comptent. Si tu as envie de pleurer, pleure, je te tiendrai la main.</item>
+        <item>Tu mérites tout le bonheur du monde simplement parce que tu existes.</item>
+        <item>Je t\'embrasse mentalement. Tu es la personne qui m\'est la plus chère et ma plus grande fierté.</item>
+        <item>Permets-toi aujourd\'hui de simplement « être », plutôt que d\'« accomplir ».</item>
+        <item>Ton âme brille si intensément qu\'aucun nuage ne pourra l\'assombrir.</item>
+        <item>Tu es un trésor, et je ne me lasserai jamais de te le rappeler chaque jour.</item>
+    </string-array>
+
+    <string-array name="encouragements_coach">
+        <item>Le succès n\'est pas un sprint épuisant, mais un marathon à ton propre rythme. Écoute ton corps, il sait.</item>
+        <item>Tes « je dois » devront un jour devenir des « je veux ». En attendant qu\'ils s\'alignent, donne-toi du temps et de l\'espace.</item>
+        <item>Les limites ne concernent pas le « non », mais un « oui » honnête à toi-même et à tes véritables valeurs.</item>
+        <item>Le repos n\'est pas une récompense pour la productivité, c\'est son carburant. Fais le plein avant de repartir.</item>
+        <item>Tu as le droit de changer d\'avis. La croissance n\'est pas une ligne droite, mais une spirale qui te ramène à toi-même à un niveau supérieur.</item>
+        <item>Arrête d\'attendre le « bon moment ». Il se crée par ton premier pas, même hésitant.</item>
+        <item>Ta valeur ne se mesure pas au nombre de cases cochées sur une liste. Tu es précieuse par le simple fait d\'exister.</item>
+        <item>La discipline sans bienveillance envers soi mène à l\'épuisement. Sois exigeante avec l\'objectif, mais douce avec toi-même sur le chemin.</item>
+        <item>Ne confonds pas les attentes des autres avec tes propres ambitions. Reprends tranquillement les commandes.</item>
+        <item>La peur du changement n\'est qu\'un respect pour ce qui t\'est cher. Agis avec prudence, mais agis.</item>
+        <item>Ton objectif, c\'est ton bonheur. En avant, vers les sommets !</item>
+        <item>Ton succès est la meilleure vengeance contre tous ceux qui ont douté de toi.</item>
+        <item>Un ex n\'est qu\'un niveau déjà validé. Oublie-le, un nouveau boss t\'attend !</item>
+        <item>Les jalouses au travail ragent car elles ne peuvent pas être aussi classe que toi.</item>
+        <item>Oublie-le. Tu es un diamant, et lui s\'y connaît juste pas en joaillerie.</item>
+        <item>Ton « non » est ton super-pouvoir. Utilise-le sans culpabilité.</item>
+        <item>Les limites ne sont pas des murs, mais un filtre pour ne garder que les personnes dignes dans ta vie.</item>
+        <item>Investis en toi. C\'est le seul investissement dont les actions montent toujours.</item>
+        <item>Tu es l\'auteure de ta propre histoire. Ne laisse personne d\'autre tenir la plume.</item>
+        <item>Les erreurs ne sont qu\'une taxe sur l\'expérience. Paye-la et avance.</item>
+        <item>Ne dépense pas ta magie pour ceux qui ne savent pas s\'en émerveiller.</item>
+        <item>Ton temps vaut trop cher pour le perdre avec des personnes toxiques.</item>
+        <item>Si quelqu\'un essaie de te blesser, c\'est que tu es déjà bien au-dessus d\'eux.</item>
+        <item>Tu n\'es pas « l\'une d\'entre elles », tu es l\'original. Les copies ne nous intéressent pas.</item>
+        <item>Lève-toi, ajuste ta couronne et va modeler ce monde à ton image !</item>
+        <item>Les haters sont tes agents de publicité gratuits. Laisse-les bosser !</item>
+        <item>Arrête de checker ses stories, vérifie plutôt le solde de ton compte.</item>
+        <item>Tu n\'as pas à être pratique. Tu dois être heureuse et réussir.</item>
+        <item>Ton potentiel est illimité, alors n\'ose pas le sous-estimer pour le confort des autres.</item>
+        <item>Dans toute situation floue, mise sur toi. Tu ne perdras pas.</item>
+        <item>Ta peur n\'est qu\'un panneau indiquant où tu dois aller pour grandir.</item>
+        <item>Soit tu maîtrises ta journée, soit c\'est elle qui te maîtrise. Choisis.</item>
+        <item>Tu réfléchis trop et n\'agis pas assez. Lance-toi juste, l\'appétit viendra en chemin.</item>
+        <item>Ton confort est un piège. La vraie vie commence là où c\'est effrayant.</item>
+        <item>Arrête de t\'excuser pour ton succès. Tu l\'as mérité par ton travail.</item>
+        <item>Si tu es la plus intelligente de la pièce, c\'est que tu n\'es pas dans la bonne pièce. Cherche plus grand !</item>
+        <item>N\'attends pas l\'inspiration, cultive la discipline. Elle te mènera là où la motivation ne suffira pas.</item>
+        <item>Tu n\'es pas « compliquée », tu as juste des standards élevés. Ne baisse pas la barre.</item>
+        <item>Ton énergie est une monnaie. Ne la dépense pas pour ceux qui ne rapportent aucun dividende.</item>
+        <item>Les limites d\'hier sont les opportunités d\'aujourd\'hui. Change la donne !</item>
+    </string-array>
+</resources>

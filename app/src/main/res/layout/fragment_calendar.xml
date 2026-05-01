@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF9F0"
+    android:paddingBottom="80dp">
+
+    <View
+        android:id="@+id/topGradient"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/gradient_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:id="@+id/ivPrevMonth"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/ic_arrow_left"
+                android:padding="8dp"
+                android:background="?selectableItemBackgroundBorderless" />
+
+            <TextView
+                android:id="@+id/tvMonthYear"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#F06292"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/ivNextMonth"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/ic_arrow_right"
+                android:padding="8dp"
+                android:background="?selectableItemBackgroundBorderless" />
+        </LinearLayout>
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/calendarPager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tvPrediction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#F06292"
+            android:gravity="center"
+            android:padding="12dp"
+            android:layout_marginBottom="52dp"
+            android:text="@string/calendar_loading" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="12dp"
+        android:background="@android:color/transparent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="8dp">
+
+            <View android:layout_width="12dp" android:layout_height="12dp"
+                android:background="@drawable/bg_cycle_day_menstruation" android:layout_marginEnd="4dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/calendar_menstruation" android:textSize="11sp" android:layout_marginEnd="12dp"/>
+
+            <View android:layout_width="12dp" android:layout_height="12dp"
+                android:background="@drawable/bg_cycle_day_predicted" android:layout_marginEnd="4dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/calendar_predicted" android:textSize="11sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <View android:layout_width="12dp" android:layout_height="12dp"
+                android:background="@drawable/bg_cycle_day_fertile" android:layout_marginEnd="4dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/calendar_fertile" android:textSize="11sp" android:layout_marginEnd="12dp"/>
+
+            <View android:layout_width="12dp" android:layout_height="12dp"
+                android:background="@drawable/bg_cycle_day_ovulation" android:layout_marginEnd="4dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/calendar_ovulation" android:textSize="11sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

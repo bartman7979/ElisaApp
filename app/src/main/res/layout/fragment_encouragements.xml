@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF9F0">
+
+    <View
+        android:id="@+id/topGradient"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/gradient_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/tvEncouragement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/encouragement_sample"
+            android:textSize="28sp"
+            android:textColor="#F06292"
+            android:textAlignment="center"
+            android:padding="16dp"
+            android:background="@drawable/bg_card"
+            android:elevation="4dp"/>
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/encouragement_next"
+            android:layout_marginTop="32dp"
+            android:backgroundTint="#FFB74D"/>
+
+    </LinearLayout>
+
+</LinearLayout>

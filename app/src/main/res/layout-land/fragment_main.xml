@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"> <ImageView
+    android:id="@+id/bgPattern"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:src="@drawable/bg_horrizont"
+    android:scaleType="centerCrop"
+    android:contentDescription="@string/background_horizontal"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent" />
+
+    <View
+        android:id="@+id/topGradient"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/gradient_top"
+        android:elevation="10dp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/ivBackground"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/background"
+        app:layout_constraintTop_toBottomOf="@id/topGradient"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="40dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideEnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="40dp" />
+
+    <ImageView
+        android:id="@+id/ivProfile"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_profile"
+        android:padding="8dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="@drawable/bg_icon_round"
+        android:elevation="12dp"
+        app:layout_constraintTop_toBottomOf="@id/topGradient"
+        app:layout_constraintEnd_toEndOf="@id/guideEnd"
+        android:layout_marginTop="8dp" />
+
+    <ImageView
+        android:id="@+id/ivLamp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/ic_lamp"
+        android:padding="16dp"
+        android:elevation="11dp"
+        app:layout_constraintStart_toStartOf="@id/guideStart"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <TextView
+        android:id="@+id/tvBalance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="28sp"
+        android:textColor="#F06292"
+        android:textStyle="bold"
+        android:elevation="11dp"
+        app:layout_constraintTop_toBottomOf="@id/ivLamp"
+        app:layout_constraintStart_toStartOf="@id/ivLamp"
+        app:layout_constraintEnd_toEndOf="@id/ivLamp"
+        android:layout_marginTop="4dp" />
+
+    <LinearLayout
+        android:id="@+id/bottomMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="6dp"
+        android:background="@drawable/bg_bottom_menu"
+        android:elevation="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@id/guideEnd"
+        android:layout_marginBottom="24dp">
+
+        <ImageView
+            android:id="@+id/ivDiary"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_diary_heart"
+            android:padding="6dp"
+            android:layout_margin="4dp" />
+        <ImageView
+            android:id="@+id/ivCard"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_card"
+            android:padding="6dp"
+            android:layout_margin="4dp" />
+        <ImageView
+            android:id="@+id/ivChat"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_chat"
+            android:padding="6dp"
+            android:layout_margin="4dp" />
+        <ImageView
+            android:id="@+id/ivCalendar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_calendar"
+            android:padding="6dp"
+            android:layout_margin="4dp" />
+        <ImageView
+            android:id="@+id/ivAbout"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_about"
+            android:padding="6dp"
+            android:layout_margin="4dp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

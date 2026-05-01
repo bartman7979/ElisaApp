@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Elisa</string>
+    <string name="profile">个人资料</string>
+    <string name="frame">相框</string>
+    <string name="lamp">心情灯</string>
+    <string name="diary">日记</string>
+    <string name="card">鼓励语</string>
+    <string name="calendar">日历</string>
+    <string name="background">背景</string>
+    <string name="add_entry">添加记录</string>
+    <string name="prev_month">上个月</string>
+    <string name="next_month">下个月</string>
+    <string name="about">关于</string>
+    <string name="logo">标志</string>
+    <string name="photo_thumbnail">照片缩略图</string>
+    <string name="delete_photo">删除照片</string>
+    <string name="photo">照片</string>
+    <string name="fullscreen_image">全屏图像</string>
+    <string name="background_horizontal">横向背景图案</string>
+
+    <string name="splash_title">Eliza: 你的时间</string>
+
+    <string name="profile_title">个人资料设置</string>
+    <string name="profile_question">今天想听谁说话？</string>
+    <string name="profile_subtitle">选择今天适合你的声音</string>
+    <string name="profile_friend">闺蜜\n(支持与舒适)</string>
+    <string name="profile_sister">姐姐\n(关怀与智慧)</string>
+    <string name="profile_coach">教练\n(能量与界限)</string>
+    <string name="profile_about_me">关于我</string>
+    <string name="profile_name">你叫什么名字？</string>
+    <string name="profile_name_hint">输入你的名字</string>
+    <string name="profile_birthday">你的生日是什么时候？</string>
+    <string name="profile_birthday_hint">日.月.年</string>
+    <string name="profile_settings">设置</string>
+    <string name="profile_notifications">来自Eliza的通知</string>
+    <string name="profile_language">应用语言</string>
+    <string name="profile_save">保存选择</string>
+    <string name="profile_saved">已保存</string>
+
+    <string name="calendar_menstruation">月经</string>
+    <string name="calendar_predicted">预测</string>
+    <string name="calendar_fertile">易孕期</string>
+    <string name="calendar_ovulation">排卵期</string>
+    <string name="calendar_prediction_text">预计月经: %s</string>
+    <string name="calendar_loading">加载预测中...</string>
+    <string name="calendar_no_data">数据不足，无法预测</string>
+
+    <string name="diary_hint">今天怎么样？</string>
+    <string name="diary_photos_label">照片:</string>
+    <string name="diary_add_photo">添加照片</string>
+    <string name="diary_save">保存</string>
+    <string name="diary_edit">编辑</string>
+    <string name="diary_delete">删除</string>
+    <string name="diary_entry_saved">记录已保存</string>
+    <string name="diary_entry_updated">记录已更新</string>
+    <string name="diary_enter_text">输入文字</string>
+    <string name="diary_photo_saved">照片已保存</string>
+    <string name="diary_photo_error">无法保存照片</string>
+    <string name="diary_file_not_found">文件未找到</string>
+
+    <string name="chat_hint">问点什么...</string>
+    <string name="back">返回</string>
+    <string name="chat_send">发送</string>
+    <string name="chat_network_error">网络错误</string>
+    <string name="chat_server_error">服务器错误</string>
+    <string name="chat_welcome">你好！我是Eliza，你的助手。你今天怎么样？</string>
+    <string name="chat_error_loading">加载错误</string>
+
+    <string name="encouragement_sample">你太棒了！</string>
+    <string name="encouragements_title">鼓励语</string>
+    <string name="encouragement_next">下一条鼓励</string>
+
+    <string name="counter_question">你今天过得怎么样？</string>
+    <string name="counter_positive">+ 积极</string>
+    <string name="counter_negative">– 消极</string>
+    <string name="main_balance_zero">0</string>
+    <string name="main_balance_positive">+%d</string>
+    <string name="main_lamp_description">心情灯</string>
+
+    <string name="notification_channel_name">Eliza</string>
+    <string name="notification_channel_description">来自Eliza的通知</string>
+    <string name="notification_title">Eliza</string>
+
+    <string name="about_title">关于应用</string>
+    <string name="about_version">版本 1.0.0</string>
+    <string name="about_description"><![CDATA[
+<p><b>Eliza</b> — 你个人的宁静岛屿。我为你而生，温柔地呵护你的情绪和健康。✨</p>
+
+<p><b>我们将一起做什么：</b></p>
+• <b>情感日记：</b>记录你的想法，用照片保存重要时刻。<br>
+• <b>心情灯：</b>分享事件，我会告诉你今天是什么“颜色”。<br>
+• <b>日历：</b>我会帮你跟踪周期并预测重要日期。<br>
+• <b>鼓励语：</b>来自理解你的人的温暖话语。<br>
+• <b>与我聊天：</b>我随时在这里，聊天、找食谱或只是倾听。🌸<br><br>
+
+<i>你所有的秘密都只留在这个设备上。</i><br><br>
+
+<i><font color="#F06292">⚠️ 本应用不是避孕手段，不得用于计划或防止怀孕。如有任何周期紊乱，请咨询医生。</font></i><br><br>
+
+为你而做，满满的爱。❤️
+]]></string>
+    <string name="about_copyright">© 2026 你的 Bartman79</string>
+
+    <string-array name="widget_messages">
+        <item>坚持住 💪</item>
+        <item>你能行的 ✨</item>
+        <item>休息一下 🌸</item>
+        <item>还不错 🌿</item>
+        <item>美好的一天 🌞</item>
+        <item>在发光哦 ✨</item>
+        <item>太棒了 🎉</item>
+        <item>非常出色！ 🌟</item>
+        <item>无懈可击 🚀</item>
+    </string-array>
+</resources>

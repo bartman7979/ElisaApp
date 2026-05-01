@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Фоновое изображение на весь экран -->
+    <ImageView
+        android:id="@+id/ivBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/background" />
+
+    <!-- Основной контент поверх фона -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/mainRoot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent">
+
+        <!-- Полупрозрачная панель сверху (для читаемости статус-бара) -->
+        <View
+            android:id="@+id/topGradient"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/gradient_top"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Иконка профиля (поверх панели, так как расположена после) -->
+        <ImageView
+            android:id="@+id/ivProfile"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_profile"
+            android:padding="8dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="@drawable/bg_icon_round"
+            android:foreground="?selectableItemBackgroundBorderless"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="16dp"
+            android:contentDescription="@string/profile" />
+
+        <!-- Лампа настроения -->
+        <ImageView
+            android:id="@+id/ivLamp"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_lamp"
+            android:padding="8dp"
+            android:background="@drawable/bg_lamp_glow"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="56dp"
+            android:layout_marginStart="16dp" />
+
+        <TextView
+            android:id="@+id/tvBalance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="24sp"
+            android:textColor="#F06292"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@id/ivLamp"
+            app:layout_constraintStart_toStartOf="@id/ivLamp"
+            app:layout_constraintEnd_toEndOf="@id/ivLamp"
+            android:layout_marginTop="8dp" />
+
+        <!-- Нижнее меню -->
+        <LinearLayout
+            android:id="@+id/bottomMenu"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:background="@drawable/bg_bottom_menu"
+            android:elevation="8dp"
+            android:paddingHorizontal="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="32dp"
+            android:layout_marginHorizontal="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/ivDiary"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_diary_heart"
+                    android:padding="10dp"
+                    android:foreground="?selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:focusable="true" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/ivCard"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_card"
+                    android:padding="10dp"
+                    android:foreground="?selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:focusable="true" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/ivChat"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_chat"
+                    android:padding="10dp"
+                    android:background="?selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:contentDescription="Чат с Элизой" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/ivCalendar"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_calendar"
+                    android:padding="10dp"
+                    android:foreground="?selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:focusable="true" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/ivAbout"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_about"
+                    android:padding="10dp"
+                    android:background="@drawable/bg_icon_round"
+                    android:backgroundTint="#FCE4EC"
+                    android:foreground="?selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:contentDescription="@string/about" />
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

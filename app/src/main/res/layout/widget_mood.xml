@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="@drawable/bg_widget_rounded">
+
+    <TextView
+        android:id="@+id/tvMoodNumber"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="0"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/tvMoodMessage"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="..."
+        android:textSize="12sp"
+        android:gravity="center_vertical|end"
+        android:singleLine="true"
+        android:ellipsize="end" />
+
+</LinearLayout>
